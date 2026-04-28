@@ -1,0 +1,7 @@
+{
+  "name": "息",
+  "description": "极简睡眠辅助。通过沉浸式文字对话共鸣用户情绪，并利用 Gemini 3 智能生成个性化声音处方。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
